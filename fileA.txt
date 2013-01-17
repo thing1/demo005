@@ -1,1 +1,1 @@
-text for fileA.txt
+*text for fileA.txt
