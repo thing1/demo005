@@ -1,7 +1,3 @@
 text for fileC.txt
 
-<<<<<<< Updated upstream
 Thing9 changing fileC
-=======
-Thing1 changing fileC.
->>>>>>> Stashed changes
